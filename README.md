@@ -30,3 +30,11 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
   - Golang 스터디를 진행할 예정입니다  
   - 질문 잘 받습니다  
   - 뭔가 모르는거 물어보시면 같이 공부해드립니다  
+
+## 프로젝트
+
+### Coding Agora
+- **프로젝트 링크**
+     - [coding-agora](https://github.com/penguin234/coding-agora/blob/main/README.md)
+- **구성원**
+    - [19 황재현](https://github.com/penguin234)
