@@ -68,3 +68,9 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
 - **구성원**
     - [21 송승윤](https://github.com/SongSeungYun)
     - [21 정우성](https://github.com/jungwooseong)
+
+### Create a bulletin board
+- **프로젝트 링크**
+    - [creat bulletin board](https://github.com/hong-jun-seob/Create_bulletin_board)
+- **구성원**
+    - [17 홍준섭](https://github.com/hong-jun-seob)
