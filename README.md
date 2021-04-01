@@ -81,3 +81,10 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
     - [Astro](https://github.com/josushell/Astro)
 - **구성원**
     - [19 조수연](https://github.com/josushell)
+
+### Community
+- **프로젝트 링크**
+    - [Community](https://github.com/Ojimin/Community)
+- **구성원**
+    - [20 오지민](https://github.com/Ojimin)
+
