@@ -54,3 +54,11 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
     - [BaseBallMatchUp](https://github.com/dckat/BaseBallMatchUp)
 - **구성원**
     - [15 김대철](https://github.com/dckat)  
+
+
+### Birthday
+- **프로젝트 링크**
+    - [birthday](https://github.com/LeeSuBin-khu/birthday)
+- **구성원**
+    - [19 이수빈](https://github.com/LeeSuBin-khu)
+
