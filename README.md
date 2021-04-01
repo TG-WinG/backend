@@ -97,6 +97,6 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
 
 ### Bus
 - **프로젝트 링크**
-    - [Bus](https://github.com/Kimbongsik/Bus)
+    - [Bus](https://github.com/Kimbongsik/Bus_term)
 - **구성원**
     - [19 유영빈](http://github.com/Kimbongsik)
