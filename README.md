@@ -62,3 +62,9 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
 - **구성원**
     - [19 이수빈](https://github.com/LeeSuBin-khu)
 
+### personal_blog
+- **프로젝트 링크**
+    - [peorsonal_blog](https://github.com/SongSeungYun/personal_blog)
+- **구성원**
+    - [21 송승윤](https://github.com/SongSeungYun)
+    - [21 정우성](https://github.com/jungwooseong)
