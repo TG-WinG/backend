@@ -74,3 +74,10 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
     - [creat bulletin board](https://github.com/hong-jun-seob/Create_bulletin_board)
 - **구성원**
     - [17 홍준섭](https://github.com/hong-jun-seob)
+
+
+### Astro info
+- **프로젝트 링크**
+    - [Astro](https://github.com/josushell/Astro)
+- **구성원**
+    - [19 조수연](https://github.com/josushell)
