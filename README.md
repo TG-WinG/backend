@@ -100,3 +100,9 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
     - [Bus](https://github.com/Kimbongsik/Bus_term)
 - **구성원**
     - [19 유영빈](http://github.com/Kimbongsik)
+
+### copying_everytime
+- **프로젝트 링크**
+    - [Bus](https://github.com/kimdaeseon/copying_everytime)
+- **구성원**
+    - [17 김대선](http://github.com/kimdaeseon)
