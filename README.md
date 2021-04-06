@@ -89,9 +89,9 @@ MSA의 장점을 십분 활용할 예정이기 때문에, http 혹은 Socket을 
     - [20 오지민](https://github.com/Ojimin)
 
 
-### line_messenger_chatbot
+### Telegram_messenger_chatbot
 - **프로젝트 링크**
-    - [line_messenger_chatbot](http://khuhub.khu.ac.kr/2020105604/Line_Messenger_Chatbot.git)
+    - [Telegram_messenger_chatbot](http://khuhub.khu.ac.kr/2020105604/Line_Messenger_Chatbot.git)
 - **구성원**
     - [20 김진세](http://khuhub.khu.ac.kr/u/2020105604)
 
